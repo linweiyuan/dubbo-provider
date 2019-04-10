@@ -1,6 +1,6 @@
-package com.linweiyuan.dubbo.impl;
+package com.linweiyuan.dubbo.service.impl;
 
-import com.linweiyuan.dubbo.HelloService;
+import com.linweiyuan.dubbo.service.HelloService;
 import org.apache.dubbo.config.annotation.Service;
 
 @Service
